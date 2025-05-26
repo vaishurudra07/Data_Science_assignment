@@ -46,10 +46,10 @@ Suggestions or improvements are welcome. If you find a bug or want to add more c
 
 ---
 
-## 📧 Contact
+## 🙋‍♀️ Connect With Me
 
 **Vaishnavi Rudra**  
-Email: [vaishnavirudra03@gmail.com]  
-LinkedIn: [Your LinkedIn profile]
+[🔗 EMail ](vaishnavirudra03@gmail.com)
+[🔗 LinkedIn ](https://www.linkedin.com/in/vaishnavi-rudra-93954a341)
 
 ---

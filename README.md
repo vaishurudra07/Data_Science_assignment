@@ -48,8 +48,7 @@ Suggestions or improvements are welcome. If you find a bug or want to add more c
 
 ## 🙋‍♀️ Connect With Me
 
-**Vaishnavi Rudra**  
-[🔗 EMail ](vaishnavirudra03@gmail.com)
-[🔗 LinkedIn ](https://www.linkedin.com/in/vaishnavi-rudra-93954a341)
+- [🔗 LinkedIn – Vaishnavi Rudra](https://www.linkedin.com/in/vaishnavi-rudra-93954a341)
+- [📧 Email – vaishnavirudra@example.com](mailto:vaishnavirudra03@gmail.com)
 
 ---
